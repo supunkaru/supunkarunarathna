@@ -89,12 +89,26 @@ Currently building practical cybersecurity labs and documenting hands-on project
 
 # Professional Certifications
 
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-- ISC2 Certified in Cybersecurity (CC)
-- IBM Cybersecurity Analyst Professional Certificate
-- CCNA
-- ISO 27701 Lead Implementer
-- OPSWAT OT Security Expert
+| Certification | Status |
+|---------------|--------|
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | ✅ Certified |
+| EC-Council Certified Security Analyst (ECSA) | ✅ Certified |
+| ISC2 Certified in Cybersecurity (CC) | ✅ Certified |
+| IBM Cybersecurity Analyst Professional Certificate | ✅ Certified |
+| Cisco Junior Cybersecurity Analyst Career Path | ✅ Completed |
+| Cisco Ethical Hacker | ✅ Completed |
+| CCNA | ✅ Certified |
+| OPSWAT OT Security Expert | ✅ Certified |
+| ISO 27701 Lead Implementer | ✅ Certified |
+| Fortinet NSE 3 Network Security Associate | Completed |
+| Fortinet NSE 2 Network Security Associate | Completed |
+| Fortinet NSE 1 Network Security Associate | Completed |
+| CNSS Certified Network Security Specialist (ICSI) | Certified |
+| Cyber Security Essentials (ICSI) | Completed |
+
+### Currently Pursuing
+
+- Microsoft Certified: Security Operations Analyst (SC-200)
 
 ---
 

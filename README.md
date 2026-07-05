@@ -100,11 +100,11 @@ Currently building practical cybersecurity labs and documenting hands-on project
 | CCNA | ✅ Certified |
 | OPSWAT OT Security Expert | ✅ Certified |
 | ISO 27701 Lead Implementer | ✅ Certified |
-| Fortinet NSE 3 Network Security Associate | Completed |
-| Fortinet NSE 2 Network Security Associate | Completed |
-| Fortinet NSE 1 Network Security Associate | Completed |
-| CNSS Certified Network Security Specialist (ICSI) | Certified |
-| Cyber Security Essentials (ICSI) | Completed |
+| Fortinet NSE 3 Network Security Associate | ✅ Completed |
+| Fortinet NSE 2 Network Security Associate | ✅ Completed |
+| Fortinet NSE 1 Network Security Associate | ✅ Completed |
+| CNSS Certified Network Security Specialist (ICSI) | ✅ Certified |
+| Cyber Security Essentials (ICSI) | ✅ Completed |
 
 ### Currently Pursuing
 
